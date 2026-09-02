@@ -21,10 +21,7 @@ Welcome — this is my profile README, given a gentle Studio Ghibli‑inspired t
 - Playful experiments in visuals and animation — sometimes imperfect, always sincere.
 
 Pinned projects:
-- [project-1](#) — A calm demo with smooth transitions.
-- [project-2](#) — Small CLI helpers to tidy developer workflows.
-
-(Replace the links above with your repository paths or pin them on your profile.)
+- https://github.com/Ani-Manjg/hr-recruitment-platform — A calm demo with smooth transitions.
 
 ---
 
@@ -39,31 +36,14 @@ Pinned projects:
 
 ## Reach me
 
-- Email: your-email@example.com
-- X / Twitter / Mastodon: @your-handle
+- Email: manjgaladzeani6@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ani-manjgaladze
 - GitHub: @Ani‑Manjg
 
 (Only keep what you want public — remove anything private.)
 
 ---
 
-## How to quickly edit this README
-
-This file is intentionally simple so you can tweak it without fuss. Quick edits to make it yours:
-
-- Replace the Tech list with your real languages & tools.
-- Swap the Pinned projects with real repo links (e.g. `https://github.com/Ani-Manjg/<repo>`).
-- Add a small header image or GIF for personality (optional).
-- Update contact info or remove the Reach me section if you prefer privacy.
-
-Optional add-ons I can add for you:
-- A subtle banner GIF or image.
-- A GitHub stats card (github-readme-stats) and a small config for it.
-- A CONTRIBUTING.md matching this calm aesthetic.
-
-Tell me which of these you'd like and I'll add them.
-
----
 
 Thanks for stopping by. May your code be tidy and your pull requests peaceful.
 
